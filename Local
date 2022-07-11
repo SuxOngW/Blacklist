@@ -1,0 +1,5 @@
+getgenv().Blacklist = "FUAGVK"
+if Blacklist == true then
+game.Players.LocalPlayer:Kick("You Are BLACKLISTED, If this is a mistake dm The Dev!")
+end)
+print("BLACKLISTED")
